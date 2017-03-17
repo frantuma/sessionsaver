@@ -23,3 +23,16 @@ cp -r sessionsaver /usr/lib/x86_64-linux-gnu/gedit/plugins/
 ```
 
 activate plugin in gedit
+
+related files/dir:
+
+```
+/usr/share/gedit/plugins/sessionsaver
+/usr/share/gedit/plugins/sessionsaver/sessionsaver.ui
+/usr/share/gedit/plugins/sessionsaver/sessionsaver.plugin.desktop.in.in
+/usr/share/gedit/plugins/sessionsaver.plugin
+/usr/lib/x86_64-linux-gnu/gedit/plugins/sessionsaver
+/usr/lib/x86_64-linux-gnu/gedit/plugins/sessionsaver/sessionsaver.ui
+/usr/lib/x86_64-linux-gnu/gedit/plugins/sessionsaver/sessionsaver.plugin.desktop.in.in
+/usr/lib/x86_64-linux-gnu/gedit/plugins/sessionsaver.plugin
+```
